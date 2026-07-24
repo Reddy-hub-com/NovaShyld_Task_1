@@ -1,1 +1,168 @@
+1. Executive Summary
+Cybersecurity has become one of the most critical business priorities in 2026. Rapid adoption of cloud computing, artificial intelligence, remote work, and digital services has expanded the attack surface available to cybercriminals. Modern attackers increasingly use AI to automate phishing, create convincing deepfakes, steal identities, and accelerate malware development, while defenders are also adopting AI to improve detection and response capabilities. 
+The purpose of this report is to increase cybersecurity awareness by explaining today's threat landscape, common attack techniques, practical security controls, and lessons learned from major cyber incidents. It emphasizes that cybersecurity is a shared responsibility involving technology, processes, and people.
+________________________________________
+2. Introduction
+What is Cybersecurity?
+Cybersecurity is the practice of protecting computers, networks, applications, cloud environments, and digital information from unauthorized access, cyberattacks, theft, and disruption.
+Objectives
+•	Protect Confidentiality 
+•	Maintain Integrity 
+•	Ensure Availability 
+•	Reduce Cyber Risk 
+•	Improve Organizational Resilience 
+________________________________________
+3. Cyber Threat Landscape in 2026
+Major trends include:
+•	AI-powered phishing campaigns 
+•	Deepfake impersonation attacks 
+•	Identity-based attacks 
+•	Ransomware and data extortion 
+•	Supply chain compromises 
+•	Cloud misconfigurations 
+•	Insider threats 
+•	Internet of Things (IoT) attacks 
+•	Critical infrastructure targeting 
+AI-related vulnerabilities and misuse of generative AI tools are among the fastest-growing risks, while geopolitical tensions and supply-chain dependencies continue to influence cyber threats. 
+________________________________________
+4. Common Cyber Threats
+Phishing
+Attackers send fraudulent emails or messages to steal credentials or deliver malware.
+Types
+•	Email phishing 
+•	Spear phishing 
+•	Whaling 
+•	Smishing 
+•	Vishing 
+•	QR phishing (Quishing) 
+Prevention
+•	Verify sender identity 
+•	Avoid suspicious links 
+•	Report phishing emails 
+•	Enable MFA 
+________________________________________
+Ransomware
+Malware encrypts files and demands payment for decryption.
+Common Infection Methods
+•	Phishing emails 
+•	Remote Desktop attacks 
+•	Unpatched vulnerabilities 
+•	Stolen credentials 
+Organizations continue to report ransomware as one of the highest-impact threats, with phishing and identity attacks remaining common entry points. 
+________________________________________
+Malware
+Types
+•	Trojan 
+•	Worm 
+•	Virus 
+•	Spyware 
+•	Rootkit 
+•	Keylogger 
+________________________________________
+Insider Threats
+Types
+•	Malicious Insider 
+•	Negligent Employee 
+•	Compromised Account 
+________________________________________
+Credential Theft
+Attack Methods
+•	Password Spraying 
+•	Credential Stuffing 
+•	Brute Force 
+•	MFA Fatigue 
+•	Session Cookie Theft 
+________________________________________
+5. Cyber Hygiene Best Practices
+•	Enable Multi-Factor Authentication (MFA) 
+•	Use strong, unique passwords 
+•	Install security updates promptly 
+•	Keep software and operating systems current 
+•	Back up important data regularly 
+•	Lock devices when unattended 
+•	Avoid downloading software from untrusted sources 
+•	Encrypt sensitive information 
+•	Use antivirus and endpoint protection 
+________________________________________
+6. Social Engineering Awareness
+Attackers manipulate human psychology rather than exploiting software vulnerabilities.
+Common Techniques
+•	Phishing 
+•	Pretexting 
+•	Baiting 
+•	Tailgating 
+•	Quid Pro Quo 
+•	Deepfake Voice Calls 
+Red Flags
+•	Urgent requests 
+•	Requests for passwords 
+•	Unexpected attachments 
+•	Financial requests 
+•	Unknown QR codes 
+________________________________________
+7. AI and Cybersecurity
+Artificial Intelligence now plays a major role in both cyber defense and cybercrime.
+Defensive Applications
+•	Threat Detection 
+•	Malware Analysis 
+•	User Behavior Analytics 
+•	Automated Incident Response 
+•	Security Operations Center Automation 
+Criminal Use
+•	AI-generated phishing 
+•	Deepfake videos 
+•	Voice cloning 
+•	Automated malware 
+•	Synthetic identities 
+Security awareness programs are increasingly being redesigned to address risks associated with generative AI and unauthorized use of AI tools. 
+________________________________________
+8. Cloud Security Awareness
+Common Cloud Risks
+•	Misconfigured Storage 
+•	Weak IAM Policies 
+•	Exposed APIs 
+•	Public Buckets 
+•	Insecure Secrets Management 
+Best Practices
+•	Principle of Least Privilege 
+•	Encryption 
+•	Continuous Monitoring 
+•	Cloud Security Posture Management 
+•	IAM Reviews 
+________________________________________
+9. Password and Identity Security
+Recommendations
+•	Password managers 
+•	Long passphrases 
+•	MFA 
+•	Biometrics where appropriate 
+•	Password rotation only when necessary 
+•	Monitor for compromised credentials 
+________________________________________
+10. Mobile & Remote Work Security
+Recommendations
+•	Secure Wi-Fi 
+•	VPN where required 
+•	Device encryption 
+•	Screen lock 
+•	Secure BYOD policies 
+•	Keep mobile OS updated 
+________________________________________
+11. Safe Internet Practices
+Users should:
+•	Verify website URLs 
+•	Use HTTPS 
+•	Avoid pirated software 
+•	Download only from trusted sources 
+•	Avoid unknown USB devices 
+•	Review application permissions 
+________________________________________
+12. Incident Response
+If a security incident occurs:
+1.	Disconnect the affected device if appropriate. 
+2.	Report the incident immediately. 
+3.	Preserve evidence. 
+4.	Do not delete suspicious files. 
+5.	Change compromised passwords. 
+6.	Follow organizational incident response procedures.
 
